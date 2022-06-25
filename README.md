@@ -1,4 +1,13 @@
 ### Hi there 👋
+my name is Martin, I am a problem solver that loves to learn and understand as many things as i can
+- ⚡ I currently know Unity C#, java and will be learning C and C++ soon.
+- 🔭 I’m currently working on a mechanics showroom on unity to show off different game mechanics
+- 🌱 I’m currently learning embedded programming for robotics/ mechatronics
+- 👯 I’m looking to collaborate on game development or robotics/mechatronics
+- 📫 How to reach me:
+-   Email: martin.nguyen.work@hotmail.com
+-   Linkedin: https://www.linkedin.com/in/martinnguyendev/
+                      
 
 <!--
 **kiyosaito/kiyosaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
